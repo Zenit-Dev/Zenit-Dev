@@ -1,1 +1,1 @@
-<div style="width:100%;height:0;padding-bottom:94%;position:relative;"><iframe src="https://giphy.com/embed/H2yVWsNxB6ujdPS199" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/flag-germany-german-H2yVWsNxB6ujdPS199">via GIPHY</a></p>
+![hippo](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHNuajR5dDY4NHZjdWEwOTV0eGh6eWN1ejVjd3FoMXJxd3Rhazd3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/H2yVWsNxB6ujdPS199/giphy.gif)
