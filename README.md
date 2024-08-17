@@ -1,1 +1,1 @@
-![hippo](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWRodm1hYThqdW1lYzFtZ3JiNGhidjFkOGZxOGV0NGl5b2RuMTM1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZbCnYLOB61Yjomv1er/giphy.gif)
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTB4YWV5aGQ4a2FsenpldHoxcGNld2c0bTI1dHp5dHJhMDRndGdweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rHuBz74fk4Pio/giphy.gif" width="100%" height="100"/>
